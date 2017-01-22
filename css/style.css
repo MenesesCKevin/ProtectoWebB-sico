@@ -1,0 +1,28 @@
+body{
+    font-family:Verdana;
+}
+.slogan{
+
+  text-align: center;
+  font-family:Arial Black;
+  color: rgb(7, 13, 51);
+}
+.footerIzquierdo{
+  text-align: left;
+}
+.footerDerecho{
+  text-align: right;;
+}
+footer{
+  border-top: 20px rgb(164, 164, 164);
+  background: #f1f1f1;
+  padding: 30px;
+}
+.portada{
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+.titulo{
+  color: rgb(68, 68, 69);
+}
